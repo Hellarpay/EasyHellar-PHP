@@ -2,7 +2,7 @@
 /*
 EasyHellar-PHP
 A simple class for making calls to EasyHellar's API using PHP.
-https://github.com/hellarpay/EasyHellar-PHP
+https://github.com/Hellarpay/EasyHellar-PHP
 ====================
 The MIT License (MIT)
 Copyright (c) 2022 Hellarpay
